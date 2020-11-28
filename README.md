@@ -4,7 +4,7 @@
 
 [Crawing](https://github.com/maison01006/WebtoonData)
 
-### 웹크롤링 하는 프로그램
+### 웹크롤링 프로그램
 
 네이버는 웹크로링을 하고 다음은 api를 이용하여 데이터를 받아온다.
 
